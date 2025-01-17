@@ -1,0 +1,5 @@
+import webbrowser
+
+url = "chrome://dino"
+
+webbrowser.open(url)
